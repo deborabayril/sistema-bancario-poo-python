@@ -17,4 +17,4 @@ Certifique-se de ter o Python 3 instalado em sua máquina.
 
 1. Clone este repositório:
    ```bash
-   git clone (https://github.com/deborabayril/sistema-bancario-poo-python)
+   git clone [https://github.com/deborabayril/sistema-bancario-poo-python.git](https://github.com/deborabayril/sistema-bancario-poo-python.git)
